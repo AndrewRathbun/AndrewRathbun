@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ## Current Events
 
-- 🔭 I’m currently working on studying for the GCIH
 - 🌱 I’m currently learning C# and PowerShell
 - 👯 I’m looking to collaborate on anything related to DFIR
 - 🤔 I’m looking for help with KAPE Targets/Modules, EvtxECmd Maps, SQLECmd Maps, RECmd Batch Files, and Registry Explorer Plugins
