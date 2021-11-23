@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=Awesome-KAPE&theme=dark)](https://github.com/AndrewRathbun/Awesome-KAPE)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=DirectoryOpus-DFIRConfig&theme=dark)](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=DFIRMindMaps&theme=dark)](https://github.com/AndrewRathbun/DFIRMindMaps)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=DFIRRegex&theme=dark)](https://github.com/AndrewRathbun/DFIRRegex)
@@ -38,6 +40,8 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=ForensicImageKAPEOutput&theme=dark)](https://github.com/AndrewRathbun/ForensicImageKAPEOutput)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=KAPE-EZToolsAncillaryUpdater&theme=dark)](https://github.com/AndrewRathbun/KAPE-EZToolsAncillaryUpdater)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=VanillaWindowsReference&theme=dark)](https://github.com/AndrewRathbun/VanillaWindowsReference)
 
 ## Side Projects
 
