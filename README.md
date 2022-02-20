@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything related to DFIR
 - 🤔 I’m looking for help with KAPE Targets/Modules, EvtxECmd Maps, SQLECmd Maps, RECmd Batch Files, and Registry Explorer Plugins
  
+## Notable GitHub Repositories
+
+Check out [my repositories](https://github.com/AndrewRathbun?tab=repositories) as I have a lot going on all the time!
+ 
 ## Side Projects
 
 ### AboutDFIR
