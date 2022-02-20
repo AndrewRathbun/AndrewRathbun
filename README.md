@@ -23,26 +23,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything related to DFIR
 - 🤔 I’m looking for help with KAPE Targets/Modules, EvtxECmd Maps, SQLECmd Maps, RECmd Batch Files, and Registry Explorer Plugins
  
-## Notable GitHub Repositories
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=Anti-Forensics-VHDX&theme=dark)](https://github.com/AndrewRathbun/Anti-Forensics-VHDX)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=Awesome-KAPE&theme=dark)](https://github.com/AndrewRathbun/Awesome-KAPE)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=DirectoryOpus-DFIRConfig&theme=dark)](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=DFIRMindMaps&theme=dark)](https://github.com/AndrewRathbun/DFIRMindMaps)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=DFIRRegex&theme=dark)](https://github.com/AndrewRathbun/DFIRRegex)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=EventTranscript.db-Research&theme=dark)](https://github.com/AndrewRathbun/EventTranscript.db-Research)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=ForensicImageKAPEOutput&theme=dark)](https://github.com/AndrewRathbun/ForensicImageKAPEOutput)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=KAPE-EZToolsAncillaryUpdater&theme=dark)](https://github.com/AndrewRathbun/KAPE-EZToolsAncillaryUpdater)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AndrewRathbun&repo=VanillaWindowsReference&theme=dark)](https://github.com/AndrewRathbun/VanillaWindowsReference)
-
 ## Side Projects
 
 ### AboutDFIR
