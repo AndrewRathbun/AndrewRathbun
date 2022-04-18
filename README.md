@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
 ## Notable GitHub Repositories
 
-Check out [my repositories](https://github.com/AndrewRathbun?tab=repositories) as I have a lot going on all the time!
+Check out [my repositories](https://github.com/AndrewRathbun?tab=repositories) as I have a lot going on all the time! My most actively maintained projects can be found [here](https://github.com/stars/AndrewRathbun/lists/my-projects).
  
 ## Side Projects
 
