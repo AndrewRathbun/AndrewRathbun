@@ -31,8 +31,8 @@ Check out [my repositories](https://github.com/AndrewRathbun?tab=repositories) a
 
 ### AboutDFIR
 
-I have been a Contributor to AboutDFIR since late 2019. Check out the best DFIR resource on the planet [here](https://aboutdfir.com/)!
+I have been a Contributor to [AboutDFIR](https://aboutdfir.com/) since late 2019. Be sure to check out the best DFIR resource on the planet! Let us know if you have any suggestions via the [Site Feedback Form](https://aboutdfir.com/submit/site-feedback/)!
 
 ### Digital Forensics Discord Server
 
-Join the [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek). Check out my guide [here](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server)! Also, check out the Digital Forensics Discord Server's GitHub Organization [here](https://github.com/Digital-Forensics-Discord-Server)!
+Join the [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek)! Check out my beginner's guide [here](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server)! Also, check out the Digital Forensics Discord Server's GitHub Organization [here](https://github.com/Digital-Forensics-Discord-Server) where there's lots of cool ongoing projects!
