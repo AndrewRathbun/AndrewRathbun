@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C# and PowerShell
 - 👯 I’m looking to collaborate on anything related to DFIR
-- 🤔 I’m looking for help with KAPE Targets/Modules, EvtxECmd Maps, SQLECmd Maps, RECmd Batch Files, and Registry Explorer Plugins
+- 🤔 I’m looking for help with [KAPE Targets/Modules](https://github.com/EricZimmerman/KapeFiles), [EvtxECmd Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps), [SQLECmd Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps), [RECmd Batch Files](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples), [Registry Explorer Bookmarks](https://github.com/EricZimmerman/RegistryExplorerBookmarks), [Registry Explorer Plugins](https://github.com/EricZimmerman/RegistryPlugins), and [Timeline Explorer Plugins](https://github.com/EricZimmerman/TLEFilePlugins) 
  
 ## Notable GitHub Repositories
 
