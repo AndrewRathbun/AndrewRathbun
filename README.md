@@ -37,6 +37,12 @@ I have been a Contributor to [AboutDFIR](https://aboutdfir.com/) since late 2019
 
 Join the [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek)! Check out my beginner's guide [here](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server)! Also, check out the Digital Forensics Discord Server's GitHub Organization [here](https://github.com/Digital-Forensics-Discord-Server) where there's lots of cool ongoing projects!
 
+## Books
+
 ### The Hitchhiker's Guide to DFIR: Experiences From Beginners and Experts
 
 The [Digital Forensics Discord Server](https://github.com/Digital-Forensics-Discord-Server) produced a crowdsourced book on August 15, 2022. Check it out [here](https://leanpub.com/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts)!
+
+### EZ Tools Manuals
+
+[Eric Zimmerman](https://github.com/EricZimmerman) and I co-authored and published the EZ Tools Manuals on Leanpub! Check it out [here](https://leanpub.com/eztoolsmanuals)!
