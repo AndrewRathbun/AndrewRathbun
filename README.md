@@ -46,3 +46,7 @@ The [Digital Forensics Discord Server](https://github.com/Digital-Forensics-Disc
 ### EZ Tools Manuals
 
 [Eric Zimmerman](https://github.com/EricZimmerman) and I co-authored and published the EZ Tools Manuals on Leanpub! Check it out [here](https://leanpub.com/eztoolsmanuals)!
+
+### Binary Foray
+
+[Eric Zimmerman's](https://github.com/EricZimmerman) blog posts from his [Binary Foray blog](https://binaryforay.blogspot.com/) are now in PDF and EPUB format. Check it out [here](https://leanpub.com/BinaryForay)!
