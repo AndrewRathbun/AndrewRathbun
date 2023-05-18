@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Andrew Rathbun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewRathbun&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewRathbun&count_private=true&show_icons=true&theme=dark&line_height=27" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRathbun&theme=dark&hide=CSS,Batchfile,HTML,Shell" alt="My Github stats" />
+</a>
 
 ## Current Events
 
