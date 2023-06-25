@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Streak Card: https://github.com/DenverCoder1/github-readme-streak-stats](http://github-readme-streak-stats.herokuapp.com?user=AndrewRathbun&background=0D1117&border=ffffff&stroke=4c8eda&ring=4c8eda&fire=1f6fea&currStreakNum=c3d1d9&sideNums=ffffff&currStreakLabel=1f6fea&sideLabels=58a5fe&dates=ffffff)
 
-![Top Languages Card: https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRathbun&bg_color=0D1117&text_color=ffffff&icon_color=1F6FEB&layout=compact&langs_count=10&card_width=445)
+![Top Languages Card: https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRathbun&&hide=html&bg_color=0D1117&text_color=ffffff&icon_color=1F6FEB&layout=compact&langs_count=10&card_width=445)
 
 ## Current Events
 
