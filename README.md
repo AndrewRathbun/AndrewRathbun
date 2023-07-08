@@ -53,4 +53,4 @@ The [Digital Forensics Discord Server](https://github.com/Digital-Forensics-Disc
 
 ### Binary Foray
 
-[Eric Zimmerman's](https://github.com/EricZimmerman) posts from his [Binary Foray blog](https://binaryforay.blogspot.com/) are now in PDF and EPUB format. Check it out [here](https://leanpub.com/BinaryForay)!
+[Eric Zimmerman](https://github.com/EricZimmerman)'s posts from his [Binary Foray blog](https://binaryforay.blogspot.com/) are now in PDF and EPUB format. Check it out [here](https://leanpub.com/BinaryForay)!
