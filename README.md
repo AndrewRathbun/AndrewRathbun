@@ -29,8 +29,18 @@ Here are some ideas to get you started:
  
 ## Notable GitHub Repositories
 
-Check out [my repositories](https://github.com/AndrewRathbun?tab=repositories) as I have a lot going on all the time! My most actively maintained projects can be found [here](https://github.com/stars/AndrewRathbun/lists/my-projects).
- 
+Check out [my repositories](https://github.com/AndrewRathbun?tab=repositories) as I have a lot going on all the time! 
+
+My most actively maintained projects can be found [here](https://github.com/stars/AndrewRathbun/lists/my-projects).
+
+### Forked/Updated DFIR Tools
+
+I enjoy finding abandoned DFIR tools/projects on GitHub and performing basic updates to keep them relevant and useful to the DFIR community. Check out all the tools I've forked and updated (to varying degrees) [here](https://github.com/stars/AndrewRathbun/lists/forked-updated-dfir-tools).
+
+### Projects That Need Updating
+
+If you think the [Forked/Updated DFIR Tools](https://github.com/stars/AndrewRathbun/lists/forked-updated-dfir-tools) list is cool, here is a list of tool repositories that may be transferred to that list someday! Think of this list as a to-do list for me to add more tools to the Forked/Updated DFIR Tools list. Check out my Projects That Need Updating list [here](https://github.com/stars/AndrewRathbun/lists/projects-that-need-updating).
+
 ## Side Projects
 
 ### AboutDFIR
