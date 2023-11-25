@@ -35,7 +35,7 @@ My most actively maintained projects can be found [here](https://github.com/star
 
 ### Forked/Updated DFIR Tools
 
-I enjoy finding abandoned DFIR tools/projects on GitHub and performing basic updates to keep them relevant and useful to the DFIR community. Check out all the tools I've forked and updated (to varying degrees) [here](https://github.com/stars/AndrewRathbun/lists/forked-updated-dfir-tools).
+I enjoy finding abandoned DFIR tools/projects on GitHub and performing basic updates to keep them relevant and useful to the DFIR community. Check out all the tools I've forked and updated (to varying degrees) [here](https://github.com/stars/AndrewRathbun/lists/forked-updated-dfir-tools). If you have any ideas of tools or scripts that are long overdue for a tuneup, please let me know!
 
 ### Projects That Need Updating
 
